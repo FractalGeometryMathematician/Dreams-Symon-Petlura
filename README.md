@@ -1,6 +1,6 @@
 # Dreams of a World
 
-Essays by Symon Petlura, published with GitHub Pages.
+Essays by Vineet (Symon Petlura), published with GitHub Pages.
 
 ## Layout
 - `index.html` is the homepage. Its article list is the `articles-data` block near the bottom of the file.
