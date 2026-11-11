@@ -1,7 +1,5 @@
 # Dreams of a World
 
-Essays by Vineet, published with GitHub Pages.
-
 ## Layout
 - `index.html` is the homepage. Its article list is the `articles-data` block near the bottom of the file.
 - Each article is one page named after it (`a-future-worth-building.html`) plus its cover image (`a-future-worth-building.jpg`).
